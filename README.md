@@ -1,0 +1,2 @@
+# Train-Only-Data-Quality-and-Computational-Usability-Validation-of-Technical-Features-
+This study evaluates the quality and usability of 471 PSX market features using training data. It examines data quality, variation, stability, robustness and threshold sensitivity. Classification, regression and trading tests assess their practical usefulness. Final results will be reported after execution and verification.
